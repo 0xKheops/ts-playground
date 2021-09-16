@@ -20,4 +20,4 @@ This executes the code from `./src/dev.ts` file with a file watcher.
 
 This runs all tests found in the project with file watcher.
 
-I usually only work with `./src/solution.ts` (code file) and `./src/test/solution.test.ts` (test file)
+I usually only work with `./src/solution.ts` (code file) and `./src/solution.test.ts` (test file)
